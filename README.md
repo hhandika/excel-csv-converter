@@ -1,5 +1,5 @@
 # excel-csv-converter
-Batch converting excel to csv files.
+Batch converting excel to csv files. It is just a quick and dirty project. But, it works!
 
 ## Installation
 
