@@ -7,6 +7,5 @@ from ecc import utils
 def main(dir):
     fpath = dir + "/*.xlsx"
     files = utils.find_files(fpath)
-    print(f"List of files: {files}")
     utils.convert_excel_to_csv(files)
     print("DONE!")
