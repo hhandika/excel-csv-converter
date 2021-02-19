@@ -12,7 +12,7 @@ cd excel-csv-converter/
 ```
 
 ```
-pip install editable .
+pip install --editable .
 ```
 
 ## Usages
